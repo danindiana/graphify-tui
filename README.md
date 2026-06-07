@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/AI-Ollama%20%7C%20OpenClaw-cyan.svg?style=for-the-badge" alt="AI Engine"/>
 </p>
 
-<p align="center">
-  <img src="screenshot.png" alt="Graphify TUI Screenshot" width="750"/>
-</p>
 
 ---
 
