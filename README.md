@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/TUI-Ratatui-magenta.svg?style=for-the-badge" alt="Ratatui"/>
   <img src="https://img.shields.io/badge/AI-Ollama%20%7C%20OpenClaw-cyan.svg?style=for-the-badge" alt="AI Engine"/>
+  <img src="https://img.shields.io/badge/CUDA-13.0-green.svg?style=for-the-badge&logo=nvidia" alt="CUDA Version"/>
+  <img src="https://img.shields.io/badge/GPU-RTX%205080%20%2F%203080-green.svg?style=for-the-badge&logo=nvidia" alt="NVIDIA GPUs"/>
 </p>
 
 
